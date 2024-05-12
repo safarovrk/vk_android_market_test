@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vk_android_market_intern</string>
+    <string name="pokemonimage">pokemonImage</string>
+    <string name="errorimage">errorimage</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="refresh">Refresh</string>
+    <string name="pokemon_list">Pokemon list</string>
+    <string name="height">Height: %1$d</string>
+    <string name="weight">Weight: %1$d</string>
+    <string name="stats">Stats: %1$s</string>
+</resources>

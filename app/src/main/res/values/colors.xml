@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="silver">#FFA4A4A4</color>
+    <color name="silver_light">#FFE3E3E3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pikachu_main_color">#FFF4DC26</color>
+    <color name="pikachu_light_color">#66F4DC26</color>
+    <color name="pikachu_error_color">#FFE92929</color>
+</resources>
